@@ -3,12 +3,10 @@
 This repo contains all my revised code, organized topic-wise for daily & weekly cycles (2025–2027).
 
 ## 📂 Structure
-- `C_Programming` – Core C concepts, memory, strings
+- `C_Programming` – Core C concepts for Porgramming and System Level Understanding
 - `Java_OOP` – Object-oriented practice in Java
 - `DSA` – Leetcode-style logic, with notes
-- `OS` – Scheduling, process/thread, memory mgmt
-- `CN` – Layers, protocols, sockets
-- `DBMS` – SQL-based exercises and concepts
+- CS fundamentals = CN + DBMS + OS 
 - `Mock_Interviews` – Key Q&A from HR + Tech rounds
 
 ---
